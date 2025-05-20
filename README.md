@@ -139,5 +139,4 @@ This project demonstrates how NLP techniques can be applied to analyze emotional
 
 **Jabulente**
 Data Analyst | NLP Enthusiast | Crop & Soil Researcher
-\[LinkedIn Profile] | \[GitHub Profile] | \[Email Contact]
-
+[LinkedIn](https://www.linkedin.com/in/jabulente2002) | [GitHub](https://github.com/Jabulente) | [Email](mailto:Jabulente@hotmail.com)
