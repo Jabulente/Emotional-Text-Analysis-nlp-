@@ -114,10 +114,21 @@ The distribution of sentiments was explored using:
 
 ## **Results and Insights**
 
-* A clear **dominance of positive sentiments** was observed in certain emotional texts.
-* **Negative sentiments** showed more lexical diversity, especially in adjectives and exclamations.
-* Frequent phrases like *"feel good"*, *"not happy"*, *"very angry"* were strongly tied to respective sentiment labels.
-* Word clouds visually revealed thematic concentrations in each category, reinforcing classification patterns detected by VADER.
+## Results and Insights
+
+The sentiment analysis revealed clear trends across emotional tones. Among all emotions, **Joy was strongly associated with positive sentiment**, contributing the largest share of positively scored comments. This suggests that texts expressing happiness or satisfaction tend to carry a high sentiment polarity, a finding visually evident in the grouped bar chart below.
+
+![Sentiment Distribution Bar Chart](./outputs/plot_4.png)
+
+In contrast, **Anger and Fear were more commonly linked to neutral and negative sentiments**. The distribution plots confirmed this by showing a dense clustering of low sentiment scores, especially under Anger. These emotions carried more expressive negativity, often marked by phrases such as *“not happy”* and *“very angry”*, pointing to heightened emotional intensity.
+
+![Violin Plot of Sentiment Score by Emotion](./outputs/plot_1.png)
+
+Furthermore, the density plot displayed the overall sentiment shape across emotions. Joy leaned towards the positive spectrum, while Fear and Anger remained more centered or negatively skewed. This distribution pattern supports the idea that **sentiment varies significantly with emotion type**, and understanding this variation is key to interpreting emotional text.
+
+![Sentiment Density Plot](./outputs/plot_2.png)
+
+In summary, emotional tone serves as a strong indicator of sentiment classification. Positive emotions reflect clear sentiment signals, whereas negative emotions carry greater lexical diversity and intensity. These general patterns can inform broader NLP applications like sentiment-aware recommendation systems or emotional analytics in social feedback.
 
 ---
 
