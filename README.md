@@ -1,4 +1,4 @@
-# **Sentiment Analysis on Emotional Texts**
+# ***Sentiment Analysis on Emotional Texts***
 
 ## **Project Overview**
 
@@ -137,6 +137,7 @@ This project demonstrates how NLP techniques can be applied to analyze emotional
 
 ## **Author**
 
-**Jabulente**
-Data Analyst | NLP Enthusiast | Crop & Soil Researcher
+***Jabulente*** |
+***Data Analyst*** | ***NLP Enthusiast***
+
 [LinkedIn](https://www.linkedin.com/in/jabulente2002) | [GitHub](https://github.com/Jabulente) | [Email](mailto:Jabulente@hotmail.com)
